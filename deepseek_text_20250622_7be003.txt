@@ -1,0 +1,8 @@
+/easy-loan-service/
+├── index.html          # Main HTML file
+├── styles/            # CSS folder
+│   └── main.css       # All your CSS
+├── images/            # Image assets
+│   └── banner.jpg     # Banner image
+├── README.md          # Project documentation
+└── .gitignore         # Ignore unnecessary files
